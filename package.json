@@ -1,0 +1,22 @@
+{
+  "name": "lucebra-profile-studio",
+  "version": "1.0.0",
+  "description": "🚀 The ultimate developer GitHub Profile README Studio with verified skill badges, stats widgets, and one-click markdown export by Lucebra.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "github-profile",
+    "readme-generator",
+    "developer-portfolio",
+    "lucebra",
+    "tech-badges",
+    "github-stats",
+    "markdown-generator"
+  ],
+  "author": "Lucebra (https://www.lucebra.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/Lucebrallc/lucebra-profile-studio"
+}
